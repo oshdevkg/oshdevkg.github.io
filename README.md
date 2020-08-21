@@ -1,2 +1,4 @@
-# oshdevkg.github.io
-Osh Developers community page
+# Страница IT сообщества города Ош
+
+
+
